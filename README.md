@@ -8,21 +8,9 @@
 
 
 
-<h2 align='left'>📌 Sobre Mim / About Me</h2>
-
-**[PT-BR]**
+<h2 align='left'>📌 About Me</h2>
 </br>
-• Estudando para me tornar _**Desenvolvedor Fullstack**_, atualmente tenho maior interesse pela área de _Front-End_. 🐶
-
-- 🔭 &nbsp; Procurando por oportunidades;
-- 🌱 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** na Universidade do Sul de Santa Catarina _(UNISUL, Brasil)_;
-- 🔧 &nbsp; Maior parte dos meus projetos e testes que faço estão disponiveis em [Respositórios](https://github.com/leonardostefanello?tab=repositories);
-- 🎮 &nbsp; Mesmo no tempo livre, continuo aprimorando meus conhecimentos desenvolvendo mods/scripts para jogos e tambem me divertindo como artista 3D, programação não é só um trabalho para mim, mas sim uma paixão;
-</br>
-
-**[ENG]**
-</br>
-• Studying to become a _**Fullstack Developer**_, I am currently more interested in _Front-End_. 🐶
+• Studying to become a _**Fullstack Developer**_, I am currently more interested in _AI & Automation_.
 
 - 🔭 &nbsp; Looking for opportunities;
 - 🌱 &nbsp; Graduated in **System Analysis and Development** at University of Southern Santa Catarina _(UNISUL, Brazil)_;
@@ -32,7 +20,7 @@
 
 
 
-<h2 align='left'>📑 Status / Stats</h2>
+<h2 align='left'>📑 Stats</h2>
 <p>
 <a href="https://github.com/leonardostefanello/leonardostefanello">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardostefanello&show_icons=true&line_height=27&count_private=true&theme=dracula&include_all_commits=true"/>
@@ -45,13 +33,13 @@
 
 
 <h2 align='left'></h2>
-<h3 align='left'>💻 Sistema Operacional / Operational System</h3>
+<h3 align='left'>💻 Operational System</h3>
 <p aign="center">
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg"></a>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-999999.svg"></a>
 </p>
 
-<h3 align='left'>🔌 Linguagens / Languages</h3>
+<h3 align='left'>🔌 Languages</h3>
 <p aign="center">
     <a href="https://github.com/search?q=user%3Aleonardostefanello+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aleonardostefanello+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
