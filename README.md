@@ -8,8 +8,6 @@
 
 
 <h2 align='left'>📌 About Me</h2>
-</br>
-
 • Studying to become a _**Fullstack Developer**_, I am currently interested in _AI & Automation_.
 
 - 🔭 &nbsp; Looking for opportunities;
